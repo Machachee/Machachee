@@ -87,13 +87,14 @@ const developer = {
 
 ### DevOps & Cloud
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,apache,linux,ubuntu,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,ubuntu,git,github&theme=dark" />
 </div>
 
 ### Tools & Platforms
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,figma,photoshop,wordpress,woocommerce&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,phpstorm,postman,figma,photoshop,wordpress&theme=dark" />
 </div>
+
 
 ### Currently Learning
 <div align="center">
